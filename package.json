@@ -1,0 +1,21 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "Simple REST APIs to extend CouchDB's functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/covidsimteam/ui-core.git"
+  },
+  "keywords": [
+    "proxy",
+    "api",
+    "couchdb-plugin",
+    "map-reduce-on-steroids"
+  ],
+  "author": "Risav Karna",
+  "license": "GPL-3.0-or-later"
+}
